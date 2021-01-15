@@ -1,3 +1,6 @@
+//
+// Test Enum
+//
 
 public class TestEnum {
     
